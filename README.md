@@ -4,7 +4,7 @@
   ->You can remove any student
   ->Edit any studenty info
   ->Update 
-
+SQL Lite  is used in this project
 A new Flutter project.
 
 ## Getting Started
