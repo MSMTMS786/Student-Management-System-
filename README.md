@@ -1,4 +1,9 @@
-# grocerry
+# Student Management System
+*You can perform following crud operation in this app
+  ->You can add new student
+  ->You can remove any student
+  ->Edit any studenty info
+  ->Update 
 
 A new Flutter project.
 
